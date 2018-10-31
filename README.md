@@ -6,7 +6,7 @@
 
 
 # What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean,Github and Twilio, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
+Hacktoberfest is a program by Github, Digital Ocean and Twilio, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
 
 ## Steps to follow :scroll:
 
